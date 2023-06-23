@@ -2,7 +2,7 @@ header {
     display: flex;
     align-items: center;
     padding: 2rem;
-    background-color: #a0c4ff;
+    background-image: linear-gradient(90deg, #b8c0ff, #bbd0ff, #88a6e7);
 }
 
 header h1 {
