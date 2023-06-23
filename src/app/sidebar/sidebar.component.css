@@ -1,0 +1,12 @@
+aside {
+    height: calc(100vh - var(--header-height));
+    width: var(--sidebar-width);
+    background-color: #bdb2ff;
+    position: fixed;
+  }
+  
+  aside p {
+    margin: 0;
+    padding: 2rem;
+    font-size: 2rem;
+  }
